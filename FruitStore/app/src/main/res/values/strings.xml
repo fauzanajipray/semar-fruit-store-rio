@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FruitStore</string>
+    <string name="welcome_title_1">Choose from our best menu</string>
+    <string name="welcome_title_2">Easy and online Payment</string>
+    <string name="welcome_title_3">Quick delivery at your Doorstep</string>
+    <string name="welcome_desc_1">Pick your desire food from the menu. There are more than 26 items</string>
+    <string name="welcome_desc_2">Trouble free and online payment any card payment is available</string>
+    <string name="weltome_desc_3">Home delivery and online reservation system for restaurant and cafe</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_login">Toko Buah Semar</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="reset">Reset now</string>
+    <string name="btn_login">Login</string>
+    <string name="forgot_desc_1">Don\'t remember your password? Please fill up form below with your registered email</string>
+    <string name="text_forgot_password_1">Reset Password</string>
+    <string name="btn_send">SEND</string>
+    <string name="forgot_desc_2">Check your reset code that was sent on your email and fill up form below</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="forgot_success">Yeeeyy!!</string>
+    <string name="forgot_desc_3">Your password succesfully reset. Please remember this one!</string>
+    <string name="enter_password_confirm">Enter your confirm password</string>
+    <string name="enter_reset">Enter 5-digit reset code</string>
+    <string name="cari">Search what you want</string>
+</resources>
